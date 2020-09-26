@@ -9,12 +9,14 @@ body{
 
 .wrapper {
     margin: 0 auto;
-    margin-top: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     border: 2px solid black;
     max-width: 400px;
     border-radius: 10px;
     transition: all 0.5s ease ;
     background-color: #FFFFCC;
+    height: 93vh;
 }
 
 
@@ -42,6 +44,6 @@ input {
     border: 2px solid black;
 }
 
-    #total {
+#total {
     width: 250px;
 }
